@@ -1,0 +1,13 @@
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.exe
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.deps.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.runtimeconfig.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.runtimeconfig.dev.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\bin\Debug\netcoreapp3.1\Expressions and Decisions-P4.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.csprojAssemblyReference.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.AssemblyInfoInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.AssemblyInfo.cs
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.csproj.CoreCompileInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P4\obj\Debug\netcoreapp3.1\Expressions and Decisions-P4.genruntimeconfig.cache

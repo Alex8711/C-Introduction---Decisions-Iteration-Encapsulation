@@ -1,0 +1,13 @@
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.exe
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.deps.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.runtimeconfig.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.runtimeconfig.dev.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\bin\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.csprojAssemblyReference.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.AssemblyInfoInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.AssemblyInfo.cs
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.csproj.CoreCompileInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Iteration and Basic Validation-P4\obj\Debug\netcoreapp3.1\Iteration and Basic Validation-P4.genruntimeconfig.cache

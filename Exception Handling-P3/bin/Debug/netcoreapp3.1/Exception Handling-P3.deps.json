@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exception Handling-P3/1.0.0": {
+        "runtime": {
+          "Exception Handling-P3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exception Handling-P3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

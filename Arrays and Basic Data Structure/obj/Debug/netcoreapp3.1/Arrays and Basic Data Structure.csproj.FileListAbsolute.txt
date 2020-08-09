@@ -1,0 +1,13 @@
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.csprojAssemblyReference.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.AssemblyInfoInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.AssemblyInfo.cs
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.csproj.CoreCompileInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.exe
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.deps.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.runtimeconfig.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.runtimeconfig.dev.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\bin\Debug\netcoreapp3.1\Arrays and Basic Data Structure.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Arrays and Basic Data Structure\obj\Debug\netcoreapp3.1\Arrays and Basic Data Structure.genruntimeconfig.cache

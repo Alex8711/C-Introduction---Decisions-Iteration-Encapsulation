@@ -1,0 +1,13 @@
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.exe
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.deps.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.runtimeconfig.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.runtimeconfig.dev.json
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\bin\Debug\netcoreapp3.1\Expressions and Decisions-P5.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.csprojAssemblyReference.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.AssemblyInfoInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.AssemblyInfo.cs
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.csproj.CoreCompileInputs.cache
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.dll
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.pdb
+D:\project\C# Introduction - Decisions, Iteration & Encapsulation\Expressions and Decisions-P5\obj\Debug\netcoreapp3.1\Expressions and Decisions-P5.genruntimeconfig.cache
